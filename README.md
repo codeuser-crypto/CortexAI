@@ -1,8 +1,8 @@
 # CortexAI
 
-AI Assistant powered by a custom-built Vector Database, HNSW Semantic Search, Retrieval Augmented Generation (RAG) and Local LLMs using Ollama.
+AI Assistant that is powered by a custom built Vector Database, HNSW Semantic Search, Retrieval Augmented Generation (RAG) and Local LLMs using Ollama.
 
-CortexAI is an end to end AI system built from scratch in C++ that combines semantic search, document retrieval, and local large language models to answer questions from user-provided knowledge sources. The project demonstrates how modern AI systems such as ChatGPT, Claude, Perplexity, and enterprise RAG platforms work under the hood.
+CortexAI is an end to end AI system built from scratch in C++ that combines semantic search, document retrieval and local large language models to answer questions from user provided knowledge sources. The project demonstrates how modern AI systems such as ChatGPT, Claude, Perplexity and enterprise RAG platforms work under the hood.
 
 ## 🚀 Features
 
