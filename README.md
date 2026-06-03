@@ -99,7 +99,7 @@ Benefits:
 Limitations:
 - O(N) complexity
 
-# 🧠 Retrieval Augmented Generation (RAG)
+# Retrieval Augmented Generation (RAG)
 
 CortexAI follows a complete RAG workflow:
 
@@ -114,7 +114,7 @@ CortexAI follows a complete RAG workflow:
 
 This reduces hallucinations and enables knowledge-specific question answering.
 
-# 📊 Supported Features
+# Supported Features
 
 Feature :-
 1. HNSW Search
@@ -130,7 +130,7 @@ Feature :-
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 ### Backend
 - C++
@@ -233,11 +233,3 @@ Rather than relying on existing frameworks, CortexAI implements the underlying c
 - GPU Acceleration
 - Fine-Tuned Local Models
 - Knowledge Graph Integration
-
-# 👨‍💻 Author
-
-**CortexAI**
-A GPT-style AI Assistant built from scratch using C++, Vector Databases, HNSW, RAG and Local LLMs.
----
-
-## ⭐ If you found this project useful, consider starring the repository!
